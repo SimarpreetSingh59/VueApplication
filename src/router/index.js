@@ -12,7 +12,6 @@ const routes = [
     path: '/counter',
     name: 'counter',
     component: CounterView
-    
   },
   {
     path: '/about',
